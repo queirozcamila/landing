@@ -1,0 +1,16 @@
+.container-button{
+  /*position: absolute;
+  bottom: 200px;
+  left: 200px;*/
+  color:white;
+  background-image: linear-gradient(to right,#2b580c,#527318);
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 16px;
+  margin:auto;
+
+}
+
+.container-button:hover{
+  background-image: linear-gradient(to right,#527318,#2b580c);
+}
